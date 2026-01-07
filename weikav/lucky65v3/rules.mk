@@ -27,8 +27,8 @@ RGB_MATRIX_ENABLE = yes        # RGB matrix
 RGB_MATRIX_BLINK_ENABLE = yes  # RGB matrix blink
 HAPTIC_ENABLE = no             # Haptic
 MULTIMODE_ENABLE = yes         # three mode
-VIA_ENABLE = yes
 VIAL_ENABLE = yes
+LTO_ENABLE = yes
 
 ifeq ($(strip $(MULTIMODE_ENABLE)), yes)
     MULTIMODE_DRIVER = uart3

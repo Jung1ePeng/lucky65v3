@@ -24,7 +24,7 @@
 #define ___ NO_LED
 
 led_config_t g_led_config = {
-    LAYOUT_65_ansi_blocker(
+    LAYOUT(
 
         #if 0
         0,   1,   2,   3,   4,   5,   6,   7,   8,   9,  10,  11,  12,  13,  14,  15,

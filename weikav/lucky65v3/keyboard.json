@@ -1,6 +1,6 @@
 {
-    "keyboard_name": "Lucky65V3",
-    "manufacturer": "Lucky65V3",
+    "keyboard_name": "Lucky65 V3",
+    "manufacturer": "Weikav",
     "url": "",
     "maintainer": "qmk",
     "usb": {
@@ -99,7 +99,7 @@
         "layer_count": 6
     },
     "layouts": {
-        "LAYOUT_65_ansi_blocker": {
+        "LAYOUT": {
             "layout": [
           {"matrix": [0, 0], "x": 0, "y": 0},
           {"matrix": [0, 1], "x": 1, "y": 0},
